@@ -7,7 +7,7 @@
       </h1>
       <h2 class="subtitle">
         My first test netlify project<br/>
-        I think this is working, but I'm not sure.
+        And another test... which may or may not work.
       </h2>
       <div class="links">
         <a
